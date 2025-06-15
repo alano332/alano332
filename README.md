@@ -1,58 +1,56 @@
-<h1 align="center">Hi there 👋, I'm Alano</h1>
-<h3 align="center">A passionate software developer from Thailand</h3>
+# 👨‍💻 Alano, Visually Impaired Developer
+
+Hi, I'm **Alano**, a passionate software developer who happens to be visually impaired.
+I believe that accessibility and clean code go hand-in-hand. My journey in tech is about turning challenges into creativity and building tools that are usable for everyone.
 
 ---
 
-### 🧑‍💻 About Me
+## 🧠 About Me
 
-- 🔭 I’m currently working on **backend services and full-stack web applications**
-- 🌱 I’m currently learning **Docker, Kubernetes, and scalable system design**
-- 💬 Ask me about **Python, Node.js, React**
-- ⚡ Fun fact: I obsess over clean UI and efficient code
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,docker,git,github,linux" />
-</p>
+- 🔍 I specialize in **backend development**, and **accessibility-first applications**
+- 💡 Strong advocate for **inclusive design** and **open-source collaboration**
+- 🛠️ Currently working with: `Node.js`, `Python`
+- 🌱 Currently learning more about `Rust` and `AI development pipelines`
+- 🚀 Love building tools that empower both devs and end-users
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alano332&show_icons=true&theme=tokyonight" alt="alano stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alano332&theme=tokyonight&hide_border=false" alt="streak stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alano&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alano&layout=compact&theme=dark&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
-<p>
-  <a href="mailto:mr.gugdrummer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/gugdrummer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/GugTinnakorn">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+Feel free to reach out if you’d like to collaborate, talk tech, or just say hi!
+
+- 💬 **Telegram:** [@gugdrummer](https://t.me/gugdrummer)
+- 📘 **Facebook:** [fb.com/GugTinnakorn](https://facebook.com/GugTinnakorn)
+- 🧑‍💻 **GitHub:** [github.com/alano332](https://github.com/alano332)
 
 ---
 
-### 🚀 Currently Exploring
+## ♿ Accessibility First
 
-- DevOps tools like GitHub Actions, CI/CD pipelines
-- Scalable system architecture
-- Cloud platforms like AWS & GCP
+As a visually impaired developer, I believe **technology should empower, not exclude.**
+My code reflects principles of:
+- Semantic HTML
+- Keyboard navigation
+- Screen reader support
+- High contrast and adaptable UI
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alano332&label=Profile%20views&color=0e75b6&style=flat" alt="alano profile views" />
-</p>
+## ☕ Support & Collaborate
+
+If you like my work and want to collaborate on open-source tools, accessible web apps, or just chat about inclusive design, let's connect!
+
+---
+
+> “Disability is not a lack of ability — it’s a different way to solve problems.”
+
