@@ -18,9 +18,9 @@ I believe that accessibility and clean code go hand-in-hand. My journey in tech 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alano&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alano332&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alano&layout=compact&theme=dark&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alano332&layout=compact&theme=dark&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
