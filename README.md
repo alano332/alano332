@@ -1,46 +1,46 @@
-# 👨‍💻 Alano, Visually Impaired Developer
+# Welcome
 
-Hi, I'm **Alano**, a passionate software developer who happens to be visually impaired.
-I believe that accessibility and clean code go hand-in-hand. My journey in tech is about turning challenges into creativity and building tools that are usable for everyone.
+Hello! I'm Alano, a visually impaired software developer dedicated to creating accessible, user-focused, and impactful software. My mission is to build tools and applications that empower everyone, regardless of ability, by prioritizing inclusivity and usability in every project.
 
----
+##  What I Do
 
-## 🧠 About Me
+I focus on crafting software that solves real-world problems with a strong emphasis on accessibility and collaboration. My work centers around:
 
-- 🔍 I specialize in **backend development**, and **accessibility-first applications**
-- 💡 Strong advocate for **inclusive design** and **open-source collaboration**
-- 🛠️ Currently working with: `Node.js`, `Python`
-- 🌱 Currently learning more about `Rust` and `AI development pipelines`
-- 🚀 Love building tools that empower both devs and end-users
+- **Backend Systems:** Designing robust, scalable, and secure server-side solutions to power applications.
+- **Accessible Applications:** Building tools that are intuitive and usable for all, including those using assistive technologies like screen readers or keyboard navigation.
+- **Inclusive Design Advocacy:** Promoting and implementing design principles that ensure technology is equitable and empowering.
+- **Open-Source Contributions:** Collaborating with communities to create tools that benefit developers and end-users alike.
 
----
+## My Approach
 
-## 📫 Contact Me
+As a visually impaired developer, I bring a unique perspective to software development. My approach is guided by:
 
-Feel free to reach out if you’d like to collaborate, talk tech, or just say hi!
+- **User-Centric Solutions:** Prioritizing the needs of users to create intuitive and inclusive experiences.
+- **Clean and Maintainable Code:** Writing code that is well-structured, documented, and easy to extend.
+- **Accessibility Standards:** Ensuring applications support semantic structures, keyboard navigation, and screen reader compatibility.
+- **Collaboration:** Engaging with developers, designers, and communities to build impactful, open-source solutions.
 
-- 💬 **Telegram:** [@gugdrummer](https://t.me/gugdrummer)
-- 📘 **Facebook:** [facebook.com/GugTinnakorn](https://facebook.com/GugTinnakorn)
-- 🧑‍💻 **GitHub:** [github.com/alano332](https://github.com/alano332)
+## Current Focus
 
----
+- Developing backend systems that are reliable and scalable.
+- Creating accessible web and mobile applications that prioritize usability.
+- Exploring innovative ways to integrate accessibility into emerging technologies.
+- Contributing to open-source projects that align with my mission of inclusivity.
 
-## ♿ Accessibility First
+## Get in Touch
 
-As a visually impaired developer, I believe **technology should empower, not exclude.**
-My code reflects principles of:
-- Semantic HTML
-- Keyboard navigation
-- Screen reader support
-- High contrast and adaptable UI
+I’m always excited to connect with others who share a passion for accessible technology, open-source collaboration, or innovative problem-solving. Let’s work together to build something meaningful!
 
----
+[GitHub](https://github.com/alano332)
+[Telegram](https://t.me/gugdrummer)
+[Facebook](https://www.facebook.com/GugTinnakorn)
 
-## ☕ Support & Collaborate
+## Why Accessibility Matters
 
-If you like my work and want to collaborate on open-source tools, accessible web apps, or just chat about inclusive design, let's connect!
+I believe technology should be a tool for empowerment, not a barrier. By designing with accessibility in mind, we create solutions that are not only functional but also inclusive, enabling everyone to participate fully in the digital world.
 
----
+## Let’s Collaborate
 
-> “Disability is not a lack of ability, it’s a different way to solve problems.”
+Interested in building accessible tools, contributing to open-source projects, or discussing inclusive design? Reach out! I’m open to collaborations, feedback, or just a friendly chat about creating a more inclusive tech ecosystem.
 
+“Inclusivity in tech isn’t just a feature, it’s the foundation of meaningful innovation.”
